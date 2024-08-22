@@ -1,7 +1,7 @@
 <h1 align="center"><h1 align="center">  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Akila+Jayawardhana" alt="Typing SVG" /></a>  </h1>
 
 
-</h1>
+</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayawardhnarma&label=Profile%20views&color=0e75b6&style=flat" alt="jayawardhnarma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akila jaywardhana" target="blank"><img src="https://img.shields.io/twitter/follow/akila jaywardhana?logo=twitter&style=for-the-badge" alt="akila jaywardhana" /></a> </p>
